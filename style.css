@@ -1,0 +1,43 @@
+h1{
+    color: blue;
+    text-align: center;
+    }
+   
+    .header{
+        background-color: rgb(255, 6, 243);
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .grid{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+
+    .footer{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .item{
+        background-color: #0084ff;
+    }
+
+    .sign{
+        background-color: rgb(25, 118, 180);
+    }
+
+    .games{
+        background-color: blueviolet;
+    }
+    p,h2{
+        text-align: center;
+    }
+  h1{
+      text-align: center;
+  }
+  body{
+      background-color:rgb(51, 143, 167);
+  }

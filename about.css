@@ -1,0 +1,15 @@
+h1{
+    background-color:rgb(230, 25, 59) ;
+    color: blue;
+    text-align: center;
+}
+
+.menu{
+    display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+}
+
+.body{
+background-color: skyblue;
+}
